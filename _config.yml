@@ -1,0 +1,10 @@
+title: Karim ZN
+description: Software Engineer & ML Specialist
+baseurl: ""
+url: "https://karimzn00.github.io"
+github_username: karimzn00
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
