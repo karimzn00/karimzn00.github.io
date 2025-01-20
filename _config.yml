@@ -1,9 +1,6 @@
 title: Karim ZN
 description: Software Engineer & ML Specialist
-
-github_username: karimzn00
 theme: jekyll-theme-minimal
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
